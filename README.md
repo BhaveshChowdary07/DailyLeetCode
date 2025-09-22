@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0045-jump-game-ii) |
+| [0860-design-circular-queue](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0860-design-circular-queue) |
 | [3221-find-the-peaks](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/3221-find-the-peaks) |
 ## Enumeration
 |  |
@@ -45,4 +46,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Linked List
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0860-design-circular-queue) |
+## Design
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0860-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
