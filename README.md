@@ -18,9 +18,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0045-jump-game-ii) |
 | [3221-find-the-peaks](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/3221-find-the-peaks) |
 ## Enumeration
 |  |
 | ------- |
 | [3221-find-the-peaks](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/3221-find-the-peaks) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0045-jump-game-ii) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
