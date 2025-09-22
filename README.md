@@ -28,8 +28,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0045-jump-game-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0045-jump-game-ii) |
+## Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
