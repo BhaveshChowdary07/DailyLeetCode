@@ -69,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0042-trapping-rain-water) |
+## Binary Search
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
