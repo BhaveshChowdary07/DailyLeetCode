@@ -41,14 +41,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Linked List
 |  |
@@ -83,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
