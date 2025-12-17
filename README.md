@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0155-min-stack) |
 | [0860-design-circular-queue](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0860-design-circular-queue) |
 ## Queue
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
