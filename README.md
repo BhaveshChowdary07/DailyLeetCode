@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0045-jump-game-ii) |
 | [0120-triangle](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0120-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0240-search-a-2d-matrix-ii](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0739-daily-temperatures](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0739-daily-temperatures) |
 | [0860-design-circular-queue](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0860-design-circular-queue) |
 | [3221-find-the-peaks](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/3221-find-the-peaks) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |
@@ -113,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0166-fraction-to-recurring-decimal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
