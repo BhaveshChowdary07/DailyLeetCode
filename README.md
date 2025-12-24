@@ -59,16 +59,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Linked List
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0112-path-sum) |
 ## Hash Table
 |  |
