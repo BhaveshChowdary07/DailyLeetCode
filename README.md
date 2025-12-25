@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Greedy
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 ## Breadth-First Search
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0912-sort-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
