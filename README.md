@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## String Matching
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0678-valid-parenthesis-string](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Tree
 |  |
 | ------- |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/1021-remove-outermost-parentheses) |
