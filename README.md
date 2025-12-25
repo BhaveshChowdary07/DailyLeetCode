@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0242-valid-anagram](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0402-remove-k-digits) |
 | [1021-remove-outermost-parentheses](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0166-fraction-to-recurring-decimal](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0242-valid-anagram](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
