@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0165-compare-version-numbers) |
 ## String
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
