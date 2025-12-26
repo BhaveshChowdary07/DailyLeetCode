@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0860-design-circular-queue](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0860-design-circular-queue) |
 ## Design
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0240-search-a-2d-matrix-ii](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0912-sort-an-array) |
 ## Matrix
@@ -168,10 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
