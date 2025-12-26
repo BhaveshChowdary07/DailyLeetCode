@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0148-sort-list) |
 | [0165-compare-version-numbers](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0165-compare-version-numbers) |
 ## String
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0092-reverse-linked-list-ii) |
+| [0148-sort-list](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0148-sort-list) |
 | [0860-design-circular-queue](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0860-design-circular-queue) |
 ## Design
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0912-sort-an-array) |
 ## Matrix
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -186,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
