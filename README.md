@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0148-sort-list](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0148-sort-list) |
 | [0860-design-circular-queue](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0860-design-circular-queue) |
