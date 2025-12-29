@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2678-number-of-senior-citizens](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/2678-number-of-senior-citizens) |
 ## String Matching
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0739-daily-temperatures) |
 | [0860-design-circular-queue](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0860-design-circular-queue) |
 | [0912-sort-an-array](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0912-sort-an-array) |
+| [2678-number-of-senior-citizens](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/2678-number-of-senior-citizens) |
 | [3221-find-the-peaks](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/3221-find-the-peaks) |
 ## Enumeration
 |  |
