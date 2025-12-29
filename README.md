@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0041-first-missing-positive](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0054-spiral-matrix) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0166-fraction-to-recurring-decimal](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0242-valid-anagram) |
