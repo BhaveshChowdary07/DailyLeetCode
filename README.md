@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0075-sort-colors) |
@@ -168,11 +169,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0682-baseball-game) |
 ## Sorting
 |  |
