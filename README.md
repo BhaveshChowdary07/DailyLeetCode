@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0049-group-anagrams) |
 | [0165-compare-version-numbers](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0242-valid-anagram) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0056-merge-intervals) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0166-fraction-to-recurring-decimal](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0242-valid-anagram) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0148-sort-list) |
