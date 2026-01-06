@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0015-3sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0042-trapping-rain-water) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0374-guess-number-higher-or-lower) |
