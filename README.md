@@ -119,10 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0860-design-circular-queue](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0860-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0860-design-circular-queue](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0860-design-circular-queue) |
 ## Stack
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0402-remove-k-digits](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0682-baseball-game) |
