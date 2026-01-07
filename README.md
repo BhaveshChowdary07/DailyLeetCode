@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0328-odd-even-linked-list) |
+| [0707-design-linked-list](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0860-design-circular-queue](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0860-design-circular-queue) |
 ## Design
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0707-design-linked-list](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0707-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0860-design-circular-queue) |
 ## Queue
 |  |
