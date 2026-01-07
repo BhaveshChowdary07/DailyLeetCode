@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0234-palindrome-linked-list) |
 ## String
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0328-odd-even-linked-list) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
