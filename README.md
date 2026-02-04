@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0739-daily-temperatures) |
 | [0860-design-circular-queue](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0860-design-circular-queue) |
 | [0912-sort-an-array](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0912-sort-an-array) |
+| [1993-operations-on-tree](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/1993-operations-on-tree) |
 | [2678-number-of-senior-citizens](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/2678-number-of-senior-citizens) |
 | [3221-find-the-peaks](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/3221-find-the-peaks) |
 ## Enumeration
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0700-search-in-a-binary-search-tree](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [1993-operations-on-tree](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/1993-operations-on-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [1993-operations-on-tree](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/1993-operations-on-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0707-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0860-design-circular-queue) |
+| [1993-operations-on-tree](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/1993-operations-on-tree) |
 ## Queue
 |  |
 | ------- |
@@ -190,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0112-path-sum) |
+| [1993-operations-on-tree](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/1993-operations-on-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -200,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0242-valid-anagram) |
+| [1993-operations-on-tree](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/1993-operations-on-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
