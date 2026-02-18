@@ -275,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0039-combination-sum) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
