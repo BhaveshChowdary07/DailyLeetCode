@@ -282,4 +282,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0620-not-boring-movies) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/1978-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
