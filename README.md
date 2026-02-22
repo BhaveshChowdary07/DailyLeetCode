@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/0620-not-boring-movies) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1193-monthly-transactions-i](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/1193-monthly-transactions-i) |
+| [1280-students-and-examinations](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/BhaveshChowdary07/DailyLeetCode/tree/master/1978-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
